@@ -33,3 +33,11 @@
   }
 
 }
+
+.left-ear {
+  transition: all .5s linear;
+}
+
+.right-ear {
+  transition: all .5s linear;
+}
