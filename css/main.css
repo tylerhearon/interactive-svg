@@ -1,0 +1,19 @@
+.left-eye {
+  animation: left-eye 3s infinite;
+}
+
+@keyframes left-eye {
+
+  0% {
+    transform: translateX(-10px);
+  }
+
+  50% {
+    transform: translateX(10px);
+  }
+
+  100% {
+    transform: translateX(-10px);
+  }
+
+}
