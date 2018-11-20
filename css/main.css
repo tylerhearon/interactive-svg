@@ -18,6 +18,10 @@
 
 }
 
+.right-eye {
+  animation: right-eye 3s infinite;
+}
+
 @keyframes right-eye {
 
   0% {
